@@ -1,0 +1,3607 @@
+{
+  "plans": [
+    {
+      "user_info": {},
+      "daily_calories": 2000,
+      "days": 7,
+      "dietary_restrictions": [],
+      "created_date": "2025-07-05T14:25:50.466892",
+      "meals": {
+        "day_1": {
+          "breakfast": {
+            "name": "Chia Pudding",
+            "calories": 250,
+            "protein": 8,
+            "carbs": 35,
+            "fat": 10,
+            "ingredients": [
+              "chia seeds",
+              "almond milk",
+              "berries",
+              "honey"
+            ],
+            "instructions": "Mix chia with milk, refrigerate overnight",
+            "dietary": [
+              "vegetarian",
+              "vegan"
+            ]
+          },
+          "lunch": {
+            "name": "Chickpea Salad",
+            "calories": 320,
+            "protein": 15,
+            "carbs": 40,
+            "fat": 12,
+            "ingredients": [
+              "chickpeas",
+              "vegetables",
+              "olive oil",
+              "lemon"
+            ],
+            "instructions": "Mix chickpeas with vegetables and dressing",
+            "dietary": [
+              "vegetarian",
+              "vegan"
+            ]
+          },
+          "dinner": {
+            "name": "Chickpea Curry",
+            "calories": 340,
+            "protein": 16,
+            "carbs": 45,
+            "fat": 12,
+            "ingredients": [
+              "chickpeas",
+              "quinoa",
+              "vegetables",
+              "coconut milk"
+            ],
+            "instructions": "Cook chickpeas in coconut curry sauce",
+            "dietary": [
+              "vegetarian",
+              "vegan"
+            ]
+          },
+          "snack": {
+            "name": "Hummus with Vegetables",
+            "calories": 150,
+            "protein": 8,
+            "carbs": 20,
+            "fat": 6,
+            "ingredients": [
+              "hummus",
+              "carrots",
+              "cucumber",
+              "bell peppers"
+            ],
+            "instructions": "Serve hummus with fresh vegetables",
+            "dietary": [
+              "vegetarian",
+              "vegan"
+            ]
+          }
+        },
+        "day_2": {
+          "breakfast": {
+            "name": "Greek Yogurt Bowl",
+            "calories": 280,
+            "protein": 20,
+            "carbs": 25,
+            "fat": 8,
+            "ingredients": [
+              "greek yogurt",
+              "berries",
+              "honey",
+              "nuts"
+            ],
+            "instructions": "Mix yogurt with toppings",
+            "dietary": [
+              "vegetarian"
+            ]
+          },
+          "lunch": {
+            "name": "Tuna Sandwich",
+            "calories": 340,
+            "protein": 22,
+            "carbs": 35,
+            "fat": 10,
+            "ingredients": [
+              "tuna",
+              "whole grain bread",
+              "mayo",
+              "vegetables"
+            ],
+            "instructions": "Mix tuna with mayo, serve on bread",
+            "dietary": [
+              "none"
+            ]
+          },
+          "dinner": {
+            "name": "Chickpea Curry",
+            "calories": 340,
+            "protein": 16,
+            "carbs": 45,
+            "fat": 12,
+            "ingredients": [
+              "chickpeas",
+              "quinoa",
+              "vegetables",
+              "coconut milk"
+            ],
+            "instructions": "Cook chickpeas in coconut curry sauce",
+            "dietary": [
+              "vegetarian",
+              "vegan"
+            ]
+          },
+          "snack": {
+            "name": "Hummus with Vegetables",
+            "calories": 150,
+            "protein": 8,
+            "carbs": 20,
+            "fat": 6,
+            "ingredients": [
+              "hummus",
+              "carrots",
+              "cucumber",
+              "bell peppers"
+            ],
+            "instructions": "Serve hummus with fresh vegetables",
+            "dietary": [
+              "vegetarian",
+              "vegan"
+            ]
+          }
+        },
+        "day_3": {
+          "breakfast": {
+            "name": "Banana Oatmeal",
+            "calories": 320,
+            "protein": 12,
+            "carbs": 55,
+            "fat": 6,
+            "ingredients": [
+              "oats",
+              "banana",
+              "milk",
+              "cinnamon"
+            ],
+            "instructions": "Cook oats with milk, add banana",
+            "dietary": [
+              "vegetarian"
+            ]
+          },
+          "lunch": {
+            "name": "Chickpea Salad",
+            "calories": 320,
+            "protein": 15,
+            "carbs": 40,
+            "fat": 12,
+            "ingredients": [
+              "chickpeas",
+              "vegetables",
+              "olive oil",
+              "lemon"
+            ],
+            "instructions": "Mix chickpeas with vegetables and dressing",
+            "dietary": [
+              "vegetarian",
+              "vegan"
+            ]
+          },
+          "dinner": {
+            "name": "Lentil Curry",
+            "calories": 320,
+            "protein": 18,
+            "carbs": 50,
+            "fat": 8,
+            "ingredients": [
+              "lentils",
+              "brown rice",
+              "vegetables",
+              "spices"
+            ],
+            "instructions": "Cook lentils with spices and vegetables",
+            "dietary": [
+              "vegetarian",
+              "vegan"
+            ]
+          },
+          "snack": {
+            "name": "Nuts and Fruit",
+            "calories": 180,
+            "protein": 6,
+            "carbs": 25,
+            "fat": 8,
+            "ingredients": [
+              "almonds",
+              "apple",
+              "dried fruit"
+            ],
+            "instructions": "Mix nuts with fruit",
+            "dietary": [
+              "vegetarian",
+              "vegan"
+            ]
+          }
+        },
+        "day_4": {
+          "breakfast": {
+            "name": "Chia Pudding",
+            "calories": 250,
+            "protein": 8,
+            "carbs": 35,
+            "fat": 10,
+            "ingredients": [
+              "chia seeds",
+              "almond milk",
+              "berries",
+              "honey"
+            ],
+            "instructions": "Mix chia with milk, refrigerate overnight",
+            "dietary": [
+              "vegetarian",
+              "vegan"
+            ]
+          },
+          "lunch": {
+            "name": "Tuna Sandwich",
+            "calories": 340,
+            "protein": 22,
+            "carbs": 35,
+            "fat": 10,
+            "ingredients": [
+              "tuna",
+              "whole grain bread",
+              "mayo",
+              "vegetables"
+            ],
+            "instructions": "Mix tuna with mayo, serve on bread",
+            "dietary": [
+              "none"
+            ]
+          },
+          "dinner": {
+            "name": "Baked Salmon with Vegetables",
+            "calories": 450,
+            "protein": 40,
+            "carbs": 20,
+            "fat": 22,
+            "ingredients": [
+              "salmon",
+              "broccoli",
+              "sweet potato",
+              "olive oil"
+            ],
+            "instructions": "Bake salmon with vegetables",
+            "dietary": [
+              "none"
+            ]
+          },
+          "snack": {
+            "name": "Protein Smoothie",
+            "calories": 220,
+            "protein": 25,
+            "carbs": 20,
+            "fat": 5,
+            "ingredients": [
+              "protein powder",
+              "banana",
+              "milk",
+              "peanut butter"
+            ],
+            "instructions": "Blend all ingredients",
+            "dietary": [
+              "vegetarian"
+            ]
+          }
+        },
+        "day_5": {
+          "breakfast": {
+            "name": "Chia Pudding",
+            "calories": 250,
+            "protein": 8,
+            "carbs": 35,
+            "fat": 10,
+            "ingredients": [
+              "chia seeds",
+              "almond milk",
+              "berries",
+              "honey"
+            ],
+            "instructions": "Mix chia with milk, refrigerate overnight",
+            "dietary": [
+              "vegetarian",
+              "vegan"
+            ]
+          },
+          "lunch": {
+            "name": "Tempeh Wrap",
+            "calories": 360,
+            "protein": 20,
+            "carbs": 35,
+            "fat": 15,
+            "ingredients": [
+              "tempeh",
+              "whole grain wrap",
+              "vegetables",
+              "hummus"
+            ],
+            "instructions": "Grill tempeh, wrap with vegetables and hummus",
+            "dietary": [
+              "vegetarian",
+              "vegan"
+            ]
+          },
+          "dinner": {
+            "name": "Lentil Curry",
+            "calories": 320,
+            "protein": 18,
+            "carbs": 50,
+            "fat": 8,
+            "ingredients": [
+              "lentils",
+              "brown rice",
+              "vegetables",
+              "spices"
+            ],
+            "instructions": "Cook lentils with spices and vegetables",
+            "dietary": [
+              "vegetarian",
+              "vegan"
+            ]
+          },
+          "snack": {
+            "name": "Hummus with Vegetables",
+            "calories": 150,
+            "protein": 8,
+            "carbs": 20,
+            "fat": 6,
+            "ingredients": [
+              "hummus",
+              "carrots",
+              "cucumber",
+              "bell peppers"
+            ],
+            "instructions": "Serve hummus with fresh vegetables",
+            "dietary": [
+              "vegetarian",
+              "vegan"
+            ]
+          }
+        },
+        "day_6": {
+          "breakfast": {
+            "name": "Tofu Scramble",
+            "calories": 300,
+            "protein": 20,
+            "carbs": 15,
+            "fat": 18,
+            "ingredients": [
+              "tofu",
+              "vegetables",
+              "turmeric",
+              "olive oil"
+            ],
+            "instructions": "Scramble tofu with vegetables and spices",
+            "dietary": [
+              "vegetarian",
+              "vegan"
+            ]
+          },
+          "lunch": {
+            "name": "Quinoa Protein Bowl",
+            "calories": 380,
+            "protein": 18,
+            "carbs": 45,
+            "fat": 12,
+            "ingredients": [
+              "quinoa",
+              "black beans",
+              "vegetables",
+              "avocado"
+            ],
+            "instructions": "Cook quinoa, mix with beans and vegetables",
+            "dietary": [
+              "vegetarian",
+              "vegan"
+            ]
+          },
+          "dinner": {
+            "name": "Lentil Curry",
+            "calories": 320,
+            "protein": 18,
+            "carbs": 50,
+            "fat": 8,
+            "ingredients": [
+              "lentils",
+              "brown rice",
+              "vegetables",
+              "spices"
+            ],
+            "instructions": "Cook lentils with spices and vegetables",
+            "dietary": [
+              "vegetarian",
+              "vegan"
+            ]
+          },
+          "snack": {
+            "name": "Hummus with Vegetables",
+            "calories": 150,
+            "protein": 8,
+            "carbs": 20,
+            "fat": 6,
+            "ingredients": [
+              "hummus",
+              "carrots",
+              "cucumber",
+              "bell peppers"
+            ],
+            "instructions": "Serve hummus with fresh vegetables",
+            "dietary": [
+              "vegetarian",
+              "vegan"
+            ]
+          }
+        },
+        "day_7": {
+          "breakfast": {
+            "name": "Protein Pancakes",
+            "calories": 350,
+            "protein": 25,
+            "carbs": 30,
+            "fat": 12,
+            "ingredients": [
+              "oats",
+              "protein powder",
+              "eggs",
+              "banana"
+            ],
+            "instructions": "Blend ingredients, cook on griddle",
+            "dietary": [
+              "vegetarian"
+            ]
+          },
+          "lunch": {
+            "name": "Grilled Chicken Salad",
+            "calories": 420,
+            "protein": 35,
+            "carbs": 15,
+            "fat": 18,
+            "ingredients": [
+              "chicken breast",
+              "mixed greens",
+              "olive oil",
+              "vegetables"
+            ],
+            "instructions": "Grill chicken, assemble salad",
+            "dietary": [
+              "none"
+            ]
+          },
+          "dinner": {
+            "name": "Chickpea Curry",
+            "calories": 340,
+            "protein": 16,
+            "carbs": 45,
+            "fat": 12,
+            "ingredients": [
+              "chickpeas",
+              "quinoa",
+              "vegetables",
+              "coconut milk"
+            ],
+            "instructions": "Cook chickpeas in coconut curry sauce",
+            "dietary": [
+              "vegetarian",
+              "vegan"
+            ]
+          },
+          "snack": {
+            "name": "Hummus with Vegetables",
+            "calories": 150,
+            "protein": 8,
+            "carbs": 20,
+            "fat": 6,
+            "ingredients": [
+              "hummus",
+              "carrots",
+              "cucumber",
+              "bell peppers"
+            ],
+            "instructions": "Serve hummus with fresh vegetables",
+            "dietary": [
+              "vegetarian",
+              "vegan"
+            ]
+          }
+        }
+      }
+    },
+    {
+      "user_info": {},
+      "daily_calories": 2000,
+      "days": 7,
+      "dietary_restrictions": [],
+      "created_date": "2025-07-05T14:27:41.130130",
+      "meals": {
+        "day_1": {
+          "breakfast": {
+            "name": "Protein Pancakes",
+            "calories": 350,
+            "protein": 25,
+            "carbs": 30,
+            "fat": 12,
+            "ingredients": [
+              "oats",
+              "protein powder",
+              "eggs",
+              "banana"
+            ],
+            "instructions": "Blend ingredients, cook on griddle",
+            "dietary": [
+              "vegetarian"
+            ]
+          },
+          "lunch": {
+            "name": "Tuna Sandwich",
+            "calories": 340,
+            "protein": 22,
+            "carbs": 35,
+            "fat": 10,
+            "ingredients": [
+              "tuna",
+              "whole grain bread",
+              "mayo",
+              "vegetables"
+            ],
+            "instructions": "Mix tuna with mayo, serve on bread",
+            "dietary": [
+              "none"
+            ]
+          },
+          "dinner": {
+            "name": "Lean Beef Stir Fry",
+            "calories": 380,
+            "protein": 35,
+            "carbs": 25,
+            "fat": 15,
+            "ingredients": [
+              "lean beef",
+              "brown rice",
+              "vegetables",
+              "soy sauce"
+            ],
+            "instructions": "Stir fry beef with vegetables and rice",
+            "dietary": [
+              "none"
+            ]
+          },
+          "snack": {
+            "name": "Nuts and Fruit",
+            "calories": 180,
+            "protein": 6,
+            "carbs": 25,
+            "fat": 8,
+            "ingredients": [
+              "almonds",
+              "apple",
+              "dried fruit"
+            ],
+            "instructions": "Mix nuts with fruit",
+            "dietary": [
+              "vegetarian",
+              "vegan"
+            ]
+          }
+        },
+        "day_2": {
+          "breakfast": {
+            "name": "Greek Yogurt Bowl",
+            "calories": 280,
+            "protein": 20,
+            "carbs": 25,
+            "fat": 8,
+            "ingredients": [
+              "greek yogurt",
+              "berries",
+              "honey",
+              "nuts"
+            ],
+            "instructions": "Mix yogurt with toppings",
+            "dietary": [
+              "vegetarian"
+            ]
+          },
+          "lunch": {
+            "name": "Chickpea Salad",
+            "calories": 320,
+            "protein": 15,
+            "carbs": 40,
+            "fat": 12,
+            "ingredients": [
+              "chickpeas",
+              "vegetables",
+              "olive oil",
+              "lemon"
+            ],
+            "instructions": "Mix chickpeas with vegetables and dressing",
+            "dietary": [
+              "vegetarian",
+              "vegan"
+            ]
+          },
+          "dinner": {
+            "name": "Baked Salmon with Vegetables",
+            "calories": 450,
+            "protein": 40,
+            "carbs": 20,
+            "fat": 22,
+            "ingredients": [
+              "salmon",
+              "broccoli",
+              "sweet potato",
+              "olive oil"
+            ],
+            "instructions": "Bake salmon with vegetables",
+            "dietary": [
+              "none"
+            ]
+          },
+          "snack": {
+            "name": "Nuts and Fruit",
+            "calories": 180,
+            "protein": 6,
+            "carbs": 25,
+            "fat": 8,
+            "ingredients": [
+              "almonds",
+              "apple",
+              "dried fruit"
+            ],
+            "instructions": "Mix nuts with fruit",
+            "dietary": [
+              "vegetarian",
+              "vegan"
+            ]
+          }
+        },
+        "day_3": {
+          "breakfast": {
+            "name": "Banana Oatmeal",
+            "calories": 320,
+            "protein": 12,
+            "carbs": 55,
+            "fat": 6,
+            "ingredients": [
+              "oats",
+              "banana",
+              "milk",
+              "cinnamon"
+            ],
+            "instructions": "Cook oats with milk, add banana",
+            "dietary": [
+              "vegetarian"
+            ]
+          },
+          "lunch": {
+            "name": "Tuna Sandwich",
+            "calories": 340,
+            "protein": 22,
+            "carbs": 35,
+            "fat": 10,
+            "ingredients": [
+              "tuna",
+              "whole grain bread",
+              "mayo",
+              "vegetables"
+            ],
+            "instructions": "Mix tuna with mayo, serve on bread",
+            "dietary": [
+              "none"
+            ]
+          },
+          "dinner": {
+            "name": "Chickpea Curry",
+            "calories": 340,
+            "protein": 16,
+            "carbs": 45,
+            "fat": 12,
+            "ingredients": [
+              "chickpeas",
+              "quinoa",
+              "vegetables",
+              "coconut milk"
+            ],
+            "instructions": "Cook chickpeas in coconut curry sauce",
+            "dietary": [
+              "vegetarian",
+              "vegan"
+            ]
+          },
+          "snack": {
+            "name": "Hummus with Vegetables",
+            "calories": 150,
+            "protein": 8,
+            "carbs": 20,
+            "fat": 6,
+            "ingredients": [
+              "hummus",
+              "carrots",
+              "cucumber",
+              "bell peppers"
+            ],
+            "instructions": "Serve hummus with fresh vegetables",
+            "dietary": [
+              "vegetarian",
+              "vegan"
+            ]
+          }
+        },
+        "day_4": {
+          "breakfast": {
+            "name": "Chia Pudding",
+            "calories": 250,
+            "protein": 8,
+            "carbs": 35,
+            "fat": 10,
+            "ingredients": [
+              "chia seeds",
+              "almond milk",
+              "berries",
+              "honey"
+            ],
+            "instructions": "Mix chia with milk, refrigerate overnight",
+            "dietary": [
+              "vegetarian",
+              "vegan"
+            ]
+          },
+          "lunch": {
+            "name": "Tuna Sandwich",
+            "calories": 340,
+            "protein": 22,
+            "carbs": 35,
+            "fat": 10,
+            "ingredients": [
+              "tuna",
+              "whole grain bread",
+              "mayo",
+              "vegetables"
+            ],
+            "instructions": "Mix tuna with mayo, serve on bread",
+            "dietary": [
+              "none"
+            ]
+          },
+          "dinner": {
+            "name": "Lentil Curry",
+            "calories": 320,
+            "protein": 18,
+            "carbs": 50,
+            "fat": 8,
+            "ingredients": [
+              "lentils",
+              "brown rice",
+              "vegetables",
+              "spices"
+            ],
+            "instructions": "Cook lentils with spices and vegetables",
+            "dietary": [
+              "vegetarian",
+              "vegan"
+            ]
+          },
+          "snack": {
+            "name": "Hummus with Vegetables",
+            "calories": 150,
+            "protein": 8,
+            "carbs": 20,
+            "fat": 6,
+            "ingredients": [
+              "hummus",
+              "carrots",
+              "cucumber",
+              "bell peppers"
+            ],
+            "instructions": "Serve hummus with fresh vegetables",
+            "dietary": [
+              "vegetarian",
+              "vegan"
+            ]
+          }
+        },
+        "day_5": {
+          "breakfast": {
+            "name": "Tofu Scramble",
+            "calories": 300,
+            "protein": 20,
+            "carbs": 15,
+            "fat": 18,
+            "ingredients": [
+              "tofu",
+              "vegetables",
+              "turmeric",
+              "olive oil"
+            ],
+            "instructions": "Scramble tofu with vegetables and spices",
+            "dietary": [
+              "vegetarian",
+              "vegan"
+            ]
+          },
+          "lunch": {
+            "name": "Grilled Chicken Salad",
+            "calories": 420,
+            "protein": 35,
+            "carbs": 15,
+            "fat": 18,
+            "ingredients": [
+              "chicken breast",
+              "mixed greens",
+              "olive oil",
+              "vegetables"
+            ],
+            "instructions": "Grill chicken, assemble salad",
+            "dietary": [
+              "none"
+            ]
+          },
+          "dinner": {
+            "name": "Lean Beef Stir Fry",
+            "calories": 380,
+            "protein": 35,
+            "carbs": 25,
+            "fat": 15,
+            "ingredients": [
+              "lean beef",
+              "brown rice",
+              "vegetables",
+              "soy sauce"
+            ],
+            "instructions": "Stir fry beef with vegetables and rice",
+            "dietary": [
+              "none"
+            ]
+          },
+          "snack": {
+            "name": "Protein Smoothie",
+            "calories": 220,
+            "protein": 25,
+            "carbs": 20,
+            "fat": 5,
+            "ingredients": [
+              "protein powder",
+              "banana",
+              "milk",
+              "peanut butter"
+            ],
+            "instructions": "Blend all ingredients",
+            "dietary": [
+              "vegetarian"
+            ]
+          }
+        },
+        "day_6": {
+          "breakfast": {
+            "name": "Chia Pudding",
+            "calories": 250,
+            "protein": 8,
+            "carbs": 35,
+            "fat": 10,
+            "ingredients": [
+              "chia seeds",
+              "almond milk",
+              "berries",
+              "honey"
+            ],
+            "instructions": "Mix chia with milk, refrigerate overnight",
+            "dietary": [
+              "vegetarian",
+              "vegan"
+            ]
+          },
+          "lunch": {
+            "name": "Quinoa Protein Bowl",
+            "calories": 380,
+            "protein": 18,
+            "carbs": 45,
+            "fat": 12,
+            "ingredients": [
+              "quinoa",
+              "black beans",
+              "vegetables",
+              "avocado"
+            ],
+            "instructions": "Cook quinoa, mix with beans and vegetables",
+            "dietary": [
+              "vegetarian",
+              "vegan"
+            ]
+          },
+          "dinner": {
+            "name": "Baked Salmon with Vegetables",
+            "calories": 450,
+            "protein": 40,
+            "carbs": 20,
+            "fat": 22,
+            "ingredients": [
+              "salmon",
+              "broccoli",
+              "sweet potato",
+              "olive oil"
+            ],
+            "instructions": "Bake salmon with vegetables",
+            "dietary": [
+              "none"
+            ]
+          },
+          "snack": {
+            "name": "Protein Smoothie",
+            "calories": 220,
+            "protein": 25,
+            "carbs": 20,
+            "fat": 5,
+            "ingredients": [
+              "protein powder",
+              "banana",
+              "milk",
+              "peanut butter"
+            ],
+            "instructions": "Blend all ingredients",
+            "dietary": [
+              "vegetarian"
+            ]
+          }
+        },
+        "day_7": {
+          "breakfast": {
+            "name": "Chia Pudding",
+            "calories": 250,
+            "protein": 8,
+            "carbs": 35,
+            "fat": 10,
+            "ingredients": [
+              "chia seeds",
+              "almond milk",
+              "berries",
+              "honey"
+            ],
+            "instructions": "Mix chia with milk, refrigerate overnight",
+            "dietary": [
+              "vegetarian",
+              "vegan"
+            ]
+          },
+          "lunch": {
+            "name": "Grilled Chicken Salad",
+            "calories": 420,
+            "protein": 35,
+            "carbs": 15,
+            "fat": 18,
+            "ingredients": [
+              "chicken breast",
+              "mixed greens",
+              "olive oil",
+              "vegetables"
+            ],
+            "instructions": "Grill chicken, assemble salad",
+            "dietary": [
+              "none"
+            ]
+          },
+          "dinner": {
+            "name": "Baked Salmon with Vegetables",
+            "calories": 450,
+            "protein": 40,
+            "carbs": 20,
+            "fat": 22,
+            "ingredients": [
+              "salmon",
+              "broccoli",
+              "sweet potato",
+              "olive oil"
+            ],
+            "instructions": "Bake salmon with vegetables",
+            "dietary": [
+              "none"
+            ]
+          },
+          "snack": {
+            "name": "Nuts and Fruit",
+            "calories": 180,
+            "protein": 6,
+            "carbs": 25,
+            "fat": 8,
+            "ingredients": [
+              "almonds",
+              "apple",
+              "dried fruit"
+            ],
+            "instructions": "Mix nuts with fruit",
+            "dietary": [
+              "vegetarian",
+              "vegan"
+            ]
+          }
+        }
+      }
+    },
+    {
+      "user_info": {},
+      "daily_calories": 2000,
+      "days": 7,
+      "dietary_restrictions": [],
+      "created_date": "2025-07-05T14:27:46.821818",
+      "meals": {
+        "day_1": {
+          "breakfast": {
+            "name": "Banana Oatmeal",
+            "calories": 320,
+            "protein": 12,
+            "carbs": 55,
+            "fat": 6,
+            "ingredients": [
+              "oats",
+              "banana",
+              "milk",
+              "cinnamon"
+            ],
+            "instructions": "Cook oats with milk, add banana",
+            "dietary": [
+              "vegetarian"
+            ]
+          },
+          "lunch": {
+            "name": "Grilled Chicken Salad",
+            "calories": 420,
+            "protein": 35,
+            "carbs": 15,
+            "fat": 18,
+            "ingredients": [
+              "chicken breast",
+              "mixed greens",
+              "olive oil",
+              "vegetables"
+            ],
+            "instructions": "Grill chicken, assemble salad",
+            "dietary": [
+              "none"
+            ]
+          },
+          "dinner": {
+            "name": "Baked Salmon with Vegetables",
+            "calories": 450,
+            "protein": 40,
+            "carbs": 20,
+            "fat": 22,
+            "ingredients": [
+              "salmon",
+              "broccoli",
+              "sweet potato",
+              "olive oil"
+            ],
+            "instructions": "Bake salmon with vegetables",
+            "dietary": [
+              "none"
+            ]
+          },
+          "snack": {
+            "name": "Protein Smoothie",
+            "calories": 220,
+            "protein": 25,
+            "carbs": 20,
+            "fat": 5,
+            "ingredients": [
+              "protein powder",
+              "banana",
+              "milk",
+              "peanut butter"
+            ],
+            "instructions": "Blend all ingredients",
+            "dietary": [
+              "vegetarian"
+            ]
+          }
+        },
+        "day_2": {
+          "breakfast": {
+            "name": "Tofu Scramble",
+            "calories": 300,
+            "protein": 20,
+            "carbs": 15,
+            "fat": 18,
+            "ingredients": [
+              "tofu",
+              "vegetables",
+              "turmeric",
+              "olive oil"
+            ],
+            "instructions": "Scramble tofu with vegetables and spices",
+            "dietary": [
+              "vegetarian",
+              "vegan"
+            ]
+          },
+          "lunch": {
+            "name": "Tempeh Wrap",
+            "calories": 360,
+            "protein": 20,
+            "carbs": 35,
+            "fat": 15,
+            "ingredients": [
+              "tempeh",
+              "whole grain wrap",
+              "vegetables",
+              "hummus"
+            ],
+            "instructions": "Grill tempeh, wrap with vegetables and hummus",
+            "dietary": [
+              "vegetarian",
+              "vegan"
+            ]
+          },
+          "dinner": {
+            "name": "Baked Salmon with Vegetables",
+            "calories": 450,
+            "protein": 40,
+            "carbs": 20,
+            "fat": 22,
+            "ingredients": [
+              "salmon",
+              "broccoli",
+              "sweet potato",
+              "olive oil"
+            ],
+            "instructions": "Bake salmon with vegetables",
+            "dietary": [
+              "none"
+            ]
+          },
+          "snack": {
+            "name": "Protein Smoothie",
+            "calories": 220,
+            "protein": 25,
+            "carbs": 20,
+            "fat": 5,
+            "ingredients": [
+              "protein powder",
+              "banana",
+              "milk",
+              "peanut butter"
+            ],
+            "instructions": "Blend all ingredients",
+            "dietary": [
+              "vegetarian"
+            ]
+          }
+        },
+        "day_3": {
+          "breakfast": {
+            "name": "Chia Pudding",
+            "calories": 250,
+            "protein": 8,
+            "carbs": 35,
+            "fat": 10,
+            "ingredients": [
+              "chia seeds",
+              "almond milk",
+              "berries",
+              "honey"
+            ],
+            "instructions": "Mix chia with milk, refrigerate overnight",
+            "dietary": [
+              "vegetarian",
+              "vegan"
+            ]
+          },
+          "lunch": {
+            "name": "Grilled Chicken Salad",
+            "calories": 420,
+            "protein": 35,
+            "carbs": 15,
+            "fat": 18,
+            "ingredients": [
+              "chicken breast",
+              "mixed greens",
+              "olive oil",
+              "vegetables"
+            ],
+            "instructions": "Grill chicken, assemble salad",
+            "dietary": [
+              "none"
+            ]
+          },
+          "dinner": {
+            "name": "Lentil Curry",
+            "calories": 320,
+            "protein": 18,
+            "carbs": 50,
+            "fat": 8,
+            "ingredients": [
+              "lentils",
+              "brown rice",
+              "vegetables",
+              "spices"
+            ],
+            "instructions": "Cook lentils with spices and vegetables",
+            "dietary": [
+              "vegetarian",
+              "vegan"
+            ]
+          },
+          "snack": {
+            "name": "Hummus with Vegetables",
+            "calories": 150,
+            "protein": 8,
+            "carbs": 20,
+            "fat": 6,
+            "ingredients": [
+              "hummus",
+              "carrots",
+              "cucumber",
+              "bell peppers"
+            ],
+            "instructions": "Serve hummus with fresh vegetables",
+            "dietary": [
+              "vegetarian",
+              "vegan"
+            ]
+          }
+        },
+        "day_4": {
+          "breakfast": {
+            "name": "Chia Pudding",
+            "calories": 250,
+            "protein": 8,
+            "carbs": 35,
+            "fat": 10,
+            "ingredients": [
+              "chia seeds",
+              "almond milk",
+              "berries",
+              "honey"
+            ],
+            "instructions": "Mix chia with milk, refrigerate overnight",
+            "dietary": [
+              "vegetarian",
+              "vegan"
+            ]
+          },
+          "lunch": {
+            "name": "Grilled Chicken Salad",
+            "calories": 420,
+            "protein": 35,
+            "carbs": 15,
+            "fat": 18,
+            "ingredients": [
+              "chicken breast",
+              "mixed greens",
+              "olive oil",
+              "vegetables"
+            ],
+            "instructions": "Grill chicken, assemble salad",
+            "dietary": [
+              "none"
+            ]
+          },
+          "dinner": {
+            "name": "Lentil Curry",
+            "calories": 320,
+            "protein": 18,
+            "carbs": 50,
+            "fat": 8,
+            "ingredients": [
+              "lentils",
+              "brown rice",
+              "vegetables",
+              "spices"
+            ],
+            "instructions": "Cook lentils with spices and vegetables",
+            "dietary": [
+              "vegetarian",
+              "vegan"
+            ]
+          },
+          "snack": {
+            "name": "Hummus with Vegetables",
+            "calories": 150,
+            "protein": 8,
+            "carbs": 20,
+            "fat": 6,
+            "ingredients": [
+              "hummus",
+              "carrots",
+              "cucumber",
+              "bell peppers"
+            ],
+            "instructions": "Serve hummus with fresh vegetables",
+            "dietary": [
+              "vegetarian",
+              "vegan"
+            ]
+          }
+        },
+        "day_5": {
+          "breakfast": {
+            "name": "Chia Pudding",
+            "calories": 250,
+            "protein": 8,
+            "carbs": 35,
+            "fat": 10,
+            "ingredients": [
+              "chia seeds",
+              "almond milk",
+              "berries",
+              "honey"
+            ],
+            "instructions": "Mix chia with milk, refrigerate overnight",
+            "dietary": [
+              "vegetarian",
+              "vegan"
+            ]
+          },
+          "lunch": {
+            "name": "Quinoa Protein Bowl",
+            "calories": 380,
+            "protein": 18,
+            "carbs": 45,
+            "fat": 12,
+            "ingredients": [
+              "quinoa",
+              "black beans",
+              "vegetables",
+              "avocado"
+            ],
+            "instructions": "Cook quinoa, mix with beans and vegetables",
+            "dietary": [
+              "vegetarian",
+              "vegan"
+            ]
+          },
+          "dinner": {
+            "name": "Baked Salmon with Vegetables",
+            "calories": 450,
+            "protein": 40,
+            "carbs": 20,
+            "fat": 22,
+            "ingredients": [
+              "salmon",
+              "broccoli",
+              "sweet potato",
+              "olive oil"
+            ],
+            "instructions": "Bake salmon with vegetables",
+            "dietary": [
+              "none"
+            ]
+          },
+          "snack": {
+            "name": "Nuts and Fruit",
+            "calories": 180,
+            "protein": 6,
+            "carbs": 25,
+            "fat": 8,
+            "ingredients": [
+              "almonds",
+              "apple",
+              "dried fruit"
+            ],
+            "instructions": "Mix nuts with fruit",
+            "dietary": [
+              "vegetarian",
+              "vegan"
+            ]
+          }
+        },
+        "day_6": {
+          "breakfast": {
+            "name": "Chia Pudding",
+            "calories": 250,
+            "protein": 8,
+            "carbs": 35,
+            "fat": 10,
+            "ingredients": [
+              "chia seeds",
+              "almond milk",
+              "berries",
+              "honey"
+            ],
+            "instructions": "Mix chia with milk, refrigerate overnight",
+            "dietary": [
+              "vegetarian",
+              "vegan"
+            ]
+          },
+          "lunch": {
+            "name": "Grilled Chicken Salad",
+            "calories": 420,
+            "protein": 35,
+            "carbs": 15,
+            "fat": 18,
+            "ingredients": [
+              "chicken breast",
+              "mixed greens",
+              "olive oil",
+              "vegetables"
+            ],
+            "instructions": "Grill chicken, assemble salad",
+            "dietary": [
+              "none"
+            ]
+          },
+          "dinner": {
+            "name": "Chickpea Curry",
+            "calories": 340,
+            "protein": 16,
+            "carbs": 45,
+            "fat": 12,
+            "ingredients": [
+              "chickpeas",
+              "quinoa",
+              "vegetables",
+              "coconut milk"
+            ],
+            "instructions": "Cook chickpeas in coconut curry sauce",
+            "dietary": [
+              "vegetarian",
+              "vegan"
+            ]
+          },
+          "snack": {
+            "name": "Protein Smoothie",
+            "calories": 220,
+            "protein": 25,
+            "carbs": 20,
+            "fat": 5,
+            "ingredients": [
+              "protein powder",
+              "banana",
+              "milk",
+              "peanut butter"
+            ],
+            "instructions": "Blend all ingredients",
+            "dietary": [
+              "vegetarian"
+            ]
+          }
+        },
+        "day_7": {
+          "breakfast": {
+            "name": "Chia Pudding",
+            "calories": 250,
+            "protein": 8,
+            "carbs": 35,
+            "fat": 10,
+            "ingredients": [
+              "chia seeds",
+              "almond milk",
+              "berries",
+              "honey"
+            ],
+            "instructions": "Mix chia with milk, refrigerate overnight",
+            "dietary": [
+              "vegetarian",
+              "vegan"
+            ]
+          },
+          "lunch": {
+            "name": "Tempeh Wrap",
+            "calories": 360,
+            "protein": 20,
+            "carbs": 35,
+            "fat": 15,
+            "ingredients": [
+              "tempeh",
+              "whole grain wrap",
+              "vegetables",
+              "hummus"
+            ],
+            "instructions": "Grill tempeh, wrap with vegetables and hummus",
+            "dietary": [
+              "vegetarian",
+              "vegan"
+            ]
+          },
+          "dinner": {
+            "name": "Lentil Curry",
+            "calories": 320,
+            "protein": 18,
+            "carbs": 50,
+            "fat": 8,
+            "ingredients": [
+              "lentils",
+              "brown rice",
+              "vegetables",
+              "spices"
+            ],
+            "instructions": "Cook lentils with spices and vegetables",
+            "dietary": [
+              "vegetarian",
+              "vegan"
+            ]
+          },
+          "snack": {
+            "name": "Protein Smoothie",
+            "calories": 220,
+            "protein": 25,
+            "carbs": 20,
+            "fat": 5,
+            "ingredients": [
+              "protein powder",
+              "banana",
+              "milk",
+              "peanut butter"
+            ],
+            "instructions": "Blend all ingredients",
+            "dietary": [
+              "vegetarian"
+            ]
+          }
+        }
+      }
+    },
+    {
+      "user_info": {},
+      "daily_calories": 2000,
+      "days": 7,
+      "dietary_restrictions": [],
+      "created_date": "2025-07-05T14:27:51.794240",
+      "meals": {
+        "day_1": {
+          "breakfast": {
+            "name": "Chia Pudding",
+            "calories": 250,
+            "protein": 8,
+            "carbs": 35,
+            "fat": 10,
+            "ingredients": [
+              "chia seeds",
+              "almond milk",
+              "berries",
+              "honey"
+            ],
+            "instructions": "Mix chia with milk, refrigerate overnight",
+            "dietary": [
+              "vegetarian",
+              "vegan"
+            ]
+          },
+          "lunch": {
+            "name": "Grilled Chicken Salad",
+            "calories": 420,
+            "protein": 35,
+            "carbs": 15,
+            "fat": 18,
+            "ingredients": [
+              "chicken breast",
+              "mixed greens",
+              "olive oil",
+              "vegetables"
+            ],
+            "instructions": "Grill chicken, assemble salad",
+            "dietary": [
+              "none"
+            ]
+          },
+          "dinner": {
+            "name": "Baked Salmon with Vegetables",
+            "calories": 450,
+            "protein": 40,
+            "carbs": 20,
+            "fat": 22,
+            "ingredients": [
+              "salmon",
+              "broccoli",
+              "sweet potato",
+              "olive oil"
+            ],
+            "instructions": "Bake salmon with vegetables",
+            "dietary": [
+              "none"
+            ]
+          },
+          "snack": {
+            "name": "Nuts and Fruit",
+            "calories": 180,
+            "protein": 6,
+            "carbs": 25,
+            "fat": 8,
+            "ingredients": [
+              "almonds",
+              "apple",
+              "dried fruit"
+            ],
+            "instructions": "Mix nuts with fruit",
+            "dietary": [
+              "vegetarian",
+              "vegan"
+            ]
+          }
+        },
+        "day_2": {
+          "breakfast": {
+            "name": "Chia Pudding",
+            "calories": 250,
+            "protein": 8,
+            "carbs": 35,
+            "fat": 10,
+            "ingredients": [
+              "chia seeds",
+              "almond milk",
+              "berries",
+              "honey"
+            ],
+            "instructions": "Mix chia with milk, refrigerate overnight",
+            "dietary": [
+              "vegetarian",
+              "vegan"
+            ]
+          },
+          "lunch": {
+            "name": "Grilled Chicken Salad",
+            "calories": 420,
+            "protein": 35,
+            "carbs": 15,
+            "fat": 18,
+            "ingredients": [
+              "chicken breast",
+              "mixed greens",
+              "olive oil",
+              "vegetables"
+            ],
+            "instructions": "Grill chicken, assemble salad",
+            "dietary": [
+              "none"
+            ]
+          },
+          "dinner": {
+            "name": "Baked Salmon with Vegetables",
+            "calories": 450,
+            "protein": 40,
+            "carbs": 20,
+            "fat": 22,
+            "ingredients": [
+              "salmon",
+              "broccoli",
+              "sweet potato",
+              "olive oil"
+            ],
+            "instructions": "Bake salmon with vegetables",
+            "dietary": [
+              "none"
+            ]
+          },
+          "snack": {
+            "name": "Hummus with Vegetables",
+            "calories": 150,
+            "protein": 8,
+            "carbs": 20,
+            "fat": 6,
+            "ingredients": [
+              "hummus",
+              "carrots",
+              "cucumber",
+              "bell peppers"
+            ],
+            "instructions": "Serve hummus with fresh vegetables",
+            "dietary": [
+              "vegetarian",
+              "vegan"
+            ]
+          }
+        },
+        "day_3": {
+          "breakfast": {
+            "name": "Tofu Scramble",
+            "calories": 300,
+            "protein": 20,
+            "carbs": 15,
+            "fat": 18,
+            "ingredients": [
+              "tofu",
+              "vegetables",
+              "turmeric",
+              "olive oil"
+            ],
+            "instructions": "Scramble tofu with vegetables and spices",
+            "dietary": [
+              "vegetarian",
+              "vegan"
+            ]
+          },
+          "lunch": {
+            "name": "Quinoa Protein Bowl",
+            "calories": 380,
+            "protein": 18,
+            "carbs": 45,
+            "fat": 12,
+            "ingredients": [
+              "quinoa",
+              "black beans",
+              "vegetables",
+              "avocado"
+            ],
+            "instructions": "Cook quinoa, mix with beans and vegetables",
+            "dietary": [
+              "vegetarian",
+              "vegan"
+            ]
+          },
+          "dinner": {
+            "name": "Chickpea Curry",
+            "calories": 340,
+            "protein": 16,
+            "carbs": 45,
+            "fat": 12,
+            "ingredients": [
+              "chickpeas",
+              "quinoa",
+              "vegetables",
+              "coconut milk"
+            ],
+            "instructions": "Cook chickpeas in coconut curry sauce",
+            "dietary": [
+              "vegetarian",
+              "vegan"
+            ]
+          },
+          "snack": {
+            "name": "Hummus with Vegetables",
+            "calories": 150,
+            "protein": 8,
+            "carbs": 20,
+            "fat": 6,
+            "ingredients": [
+              "hummus",
+              "carrots",
+              "cucumber",
+              "bell peppers"
+            ],
+            "instructions": "Serve hummus with fresh vegetables",
+            "dietary": [
+              "vegetarian",
+              "vegan"
+            ]
+          }
+        },
+        "day_4": {
+          "breakfast": {
+            "name": "Protein Pancakes",
+            "calories": 350,
+            "protein": 25,
+            "carbs": 30,
+            "fat": 12,
+            "ingredients": [
+              "oats",
+              "protein powder",
+              "eggs",
+              "banana"
+            ],
+            "instructions": "Blend ingredients, cook on griddle",
+            "dietary": [
+              "vegetarian"
+            ]
+          },
+          "lunch": {
+            "name": "Quinoa Protein Bowl",
+            "calories": 380,
+            "protein": 18,
+            "carbs": 45,
+            "fat": 12,
+            "ingredients": [
+              "quinoa",
+              "black beans",
+              "vegetables",
+              "avocado"
+            ],
+            "instructions": "Cook quinoa, mix with beans and vegetables",
+            "dietary": [
+              "vegetarian",
+              "vegan"
+            ]
+          },
+          "dinner": {
+            "name": "Chickpea Curry",
+            "calories": 340,
+            "protein": 16,
+            "carbs": 45,
+            "fat": 12,
+            "ingredients": [
+              "chickpeas",
+              "quinoa",
+              "vegetables",
+              "coconut milk"
+            ],
+            "instructions": "Cook chickpeas in coconut curry sauce",
+            "dietary": [
+              "vegetarian",
+              "vegan"
+            ]
+          },
+          "snack": {
+            "name": "Hummus with Vegetables",
+            "calories": 150,
+            "protein": 8,
+            "carbs": 20,
+            "fat": 6,
+            "ingredients": [
+              "hummus",
+              "carrots",
+              "cucumber",
+              "bell peppers"
+            ],
+            "instructions": "Serve hummus with fresh vegetables",
+            "dietary": [
+              "vegetarian",
+              "vegan"
+            ]
+          }
+        },
+        "day_5": {
+          "breakfast": {
+            "name": "Banana Oatmeal",
+            "calories": 320,
+            "protein": 12,
+            "carbs": 55,
+            "fat": 6,
+            "ingredients": [
+              "oats",
+              "banana",
+              "milk",
+              "cinnamon"
+            ],
+            "instructions": "Cook oats with milk, add banana",
+            "dietary": [
+              "vegetarian"
+            ]
+          },
+          "lunch": {
+            "name": "Tuna Sandwich",
+            "calories": 340,
+            "protein": 22,
+            "carbs": 35,
+            "fat": 10,
+            "ingredients": [
+              "tuna",
+              "whole grain bread",
+              "mayo",
+              "vegetables"
+            ],
+            "instructions": "Mix tuna with mayo, serve on bread",
+            "dietary": [
+              "none"
+            ]
+          },
+          "dinner": {
+            "name": "Baked Salmon with Vegetables",
+            "calories": 450,
+            "protein": 40,
+            "carbs": 20,
+            "fat": 22,
+            "ingredients": [
+              "salmon",
+              "broccoli",
+              "sweet potato",
+              "olive oil"
+            ],
+            "instructions": "Bake salmon with vegetables",
+            "dietary": [
+              "none"
+            ]
+          },
+          "snack": {
+            "name": "Hummus with Vegetables",
+            "calories": 150,
+            "protein": 8,
+            "carbs": 20,
+            "fat": 6,
+            "ingredients": [
+              "hummus",
+              "carrots",
+              "cucumber",
+              "bell peppers"
+            ],
+            "instructions": "Serve hummus with fresh vegetables",
+            "dietary": [
+              "vegetarian",
+              "vegan"
+            ]
+          }
+        },
+        "day_6": {
+          "breakfast": {
+            "name": "Chia Pudding",
+            "calories": 250,
+            "protein": 8,
+            "carbs": 35,
+            "fat": 10,
+            "ingredients": [
+              "chia seeds",
+              "almond milk",
+              "berries",
+              "honey"
+            ],
+            "instructions": "Mix chia with milk, refrigerate overnight",
+            "dietary": [
+              "vegetarian",
+              "vegan"
+            ]
+          },
+          "lunch": {
+            "name": "Tuna Sandwich",
+            "calories": 340,
+            "protein": 22,
+            "carbs": 35,
+            "fat": 10,
+            "ingredients": [
+              "tuna",
+              "whole grain bread",
+              "mayo",
+              "vegetables"
+            ],
+            "instructions": "Mix tuna with mayo, serve on bread",
+            "dietary": [
+              "none"
+            ]
+          },
+          "dinner": {
+            "name": "Tofu Stir Fry",
+            "calories": 350,
+            "protein": 20,
+            "carbs": 30,
+            "fat": 15,
+            "ingredients": [
+              "tofu",
+              "brown rice",
+              "vegetables",
+              "soy sauce"
+            ],
+            "instructions": "Stir fry tofu with vegetables and rice",
+            "dietary": [
+              "vegetarian",
+              "vegan"
+            ]
+          },
+          "snack": {
+            "name": "Nuts and Fruit",
+            "calories": 180,
+            "protein": 6,
+            "carbs": 25,
+            "fat": 8,
+            "ingredients": [
+              "almonds",
+              "apple",
+              "dried fruit"
+            ],
+            "instructions": "Mix nuts with fruit",
+            "dietary": [
+              "vegetarian",
+              "vegan"
+            ]
+          }
+        },
+        "day_7": {
+          "breakfast": {
+            "name": "Chia Pudding",
+            "calories": 250,
+            "protein": 8,
+            "carbs": 35,
+            "fat": 10,
+            "ingredients": [
+              "chia seeds",
+              "almond milk",
+              "berries",
+              "honey"
+            ],
+            "instructions": "Mix chia with milk, refrigerate overnight",
+            "dietary": [
+              "vegetarian",
+              "vegan"
+            ]
+          },
+          "lunch": {
+            "name": "Chickpea Salad",
+            "calories": 320,
+            "protein": 15,
+            "carbs": 40,
+            "fat": 12,
+            "ingredients": [
+              "chickpeas",
+              "vegetables",
+              "olive oil",
+              "lemon"
+            ],
+            "instructions": "Mix chickpeas with vegetables and dressing",
+            "dietary": [
+              "vegetarian",
+              "vegan"
+            ]
+          },
+          "dinner": {
+            "name": "Lentil Curry",
+            "calories": 320,
+            "protein": 18,
+            "carbs": 50,
+            "fat": 8,
+            "ingredients": [
+              "lentils",
+              "brown rice",
+              "vegetables",
+              "spices"
+            ],
+            "instructions": "Cook lentils with spices and vegetables",
+            "dietary": [
+              "vegetarian",
+              "vegan"
+            ]
+          },
+          "snack": {
+            "name": "Protein Smoothie",
+            "calories": 220,
+            "protein": 25,
+            "carbs": 20,
+            "fat": 5,
+            "ingredients": [
+              "protein powder",
+              "banana",
+              "milk",
+              "peanut butter"
+            ],
+            "instructions": "Blend all ingredients",
+            "dietary": [
+              "vegetarian"
+            ]
+          }
+        }
+      }
+    },
+    {
+      "user_info": {
+        "age": 21
+      },
+      "daily_calories": 2000,
+      "days": 7,
+      "dietary_restrictions": [],
+      "created_date": "2025-07-09T18:24:27.696387",
+      "meals": {
+        "day_1": {
+          "breakfast": {
+            "name": "Tofu Scramble",
+            "calories": 300,
+            "protein": 20,
+            "carbs": 15,
+            "fat": 18,
+            "ingredients": [
+              "tofu",
+              "vegetables",
+              "turmeric",
+              "olive oil"
+            ],
+            "instructions": "Scramble tofu with vegetables and spices",
+            "dietary": [
+              "vegetarian",
+              "vegan"
+            ]
+          },
+          "lunch": {
+            "name": "Tempeh Wrap",
+            "calories": 360,
+            "protein": 20,
+            "carbs": 35,
+            "fat": 15,
+            "ingredients": [
+              "tempeh",
+              "whole grain wrap",
+              "vegetables",
+              "hummus"
+            ],
+            "instructions": "Grill tempeh, wrap with vegetables and hummus",
+            "dietary": [
+              "vegetarian",
+              "vegan"
+            ]
+          },
+          "dinner": {
+            "name": "Lean Beef Stir Fry",
+            "calories": 380,
+            "protein": 35,
+            "carbs": 25,
+            "fat": 15,
+            "ingredients": [
+              "lean beef",
+              "brown rice",
+              "vegetables",
+              "soy sauce"
+            ],
+            "instructions": "Stir fry beef with vegetables and rice",
+            "dietary": [
+              "none"
+            ]
+          },
+          "snack": {
+            "name": "Hummus with Vegetables",
+            "calories": 150,
+            "protein": 8,
+            "carbs": 20,
+            "fat": 6,
+            "ingredients": [
+              "hummus",
+              "carrots",
+              "cucumber",
+              "bell peppers"
+            ],
+            "instructions": "Serve hummus with fresh vegetables",
+            "dietary": [
+              "vegetarian",
+              "vegan"
+            ]
+          }
+        },
+        "day_2": {
+          "breakfast": {
+            "name": "Tofu Scramble",
+            "calories": 300,
+            "protein": 20,
+            "carbs": 15,
+            "fat": 18,
+            "ingredients": [
+              "tofu",
+              "vegetables",
+              "turmeric",
+              "olive oil"
+            ],
+            "instructions": "Scramble tofu with vegetables and spices",
+            "dietary": [
+              "vegetarian",
+              "vegan"
+            ]
+          },
+          "lunch": {
+            "name": "Grilled Chicken Salad",
+            "calories": 420,
+            "protein": 35,
+            "carbs": 15,
+            "fat": 18,
+            "ingredients": [
+              "chicken breast",
+              "mixed greens",
+              "olive oil",
+              "vegetables"
+            ],
+            "instructions": "Grill chicken, assemble salad",
+            "dietary": [
+              "none"
+            ]
+          },
+          "dinner": {
+            "name": "Lentil Curry",
+            "calories": 320,
+            "protein": 18,
+            "carbs": 50,
+            "fat": 8,
+            "ingredients": [
+              "lentils",
+              "brown rice",
+              "vegetables",
+              "spices"
+            ],
+            "instructions": "Cook lentils with spices and vegetables",
+            "dietary": [
+              "vegetarian",
+              "vegan"
+            ]
+          },
+          "snack": {
+            "name": "Nuts and Fruit",
+            "calories": 180,
+            "protein": 6,
+            "carbs": 25,
+            "fat": 8,
+            "ingredients": [
+              "almonds",
+              "apple",
+              "dried fruit"
+            ],
+            "instructions": "Mix nuts with fruit",
+            "dietary": [
+              "vegetarian",
+              "vegan"
+            ]
+          }
+        },
+        "day_3": {
+          "breakfast": {
+            "name": "Greek Yogurt Bowl",
+            "calories": 280,
+            "protein": 20,
+            "carbs": 25,
+            "fat": 8,
+            "ingredients": [
+              "greek yogurt",
+              "berries",
+              "honey",
+              "nuts"
+            ],
+            "instructions": "Mix yogurt with toppings",
+            "dietary": [
+              "vegetarian"
+            ]
+          },
+          "lunch": {
+            "name": "Tempeh Wrap",
+            "calories": 360,
+            "protein": 20,
+            "carbs": 35,
+            "fat": 15,
+            "ingredients": [
+              "tempeh",
+              "whole grain wrap",
+              "vegetables",
+              "hummus"
+            ],
+            "instructions": "Grill tempeh, wrap with vegetables and hummus",
+            "dietary": [
+              "vegetarian",
+              "vegan"
+            ]
+          },
+          "dinner": {
+            "name": "Tofu Stir Fry",
+            "calories": 350,
+            "protein": 20,
+            "carbs": 30,
+            "fat": 15,
+            "ingredients": [
+              "tofu",
+              "brown rice",
+              "vegetables",
+              "soy sauce"
+            ],
+            "instructions": "Stir fry tofu with vegetables and rice",
+            "dietary": [
+              "vegetarian",
+              "vegan"
+            ]
+          },
+          "snack": {
+            "name": "Nuts and Fruit",
+            "calories": 180,
+            "protein": 6,
+            "carbs": 25,
+            "fat": 8,
+            "ingredients": [
+              "almonds",
+              "apple",
+              "dried fruit"
+            ],
+            "instructions": "Mix nuts with fruit",
+            "dietary": [
+              "vegetarian",
+              "vegan"
+            ]
+          }
+        },
+        "day_4": {
+          "breakfast": {
+            "name": "Greek Yogurt Bowl",
+            "calories": 280,
+            "protein": 20,
+            "carbs": 25,
+            "fat": 8,
+            "ingredients": [
+              "greek yogurt",
+              "berries",
+              "honey",
+              "nuts"
+            ],
+            "instructions": "Mix yogurt with toppings",
+            "dietary": [
+              "vegetarian"
+            ]
+          },
+          "lunch": {
+            "name": "Tempeh Wrap",
+            "calories": 360,
+            "protein": 20,
+            "carbs": 35,
+            "fat": 15,
+            "ingredients": [
+              "tempeh",
+              "whole grain wrap",
+              "vegetables",
+              "hummus"
+            ],
+            "instructions": "Grill tempeh, wrap with vegetables and hummus",
+            "dietary": [
+              "vegetarian",
+              "vegan"
+            ]
+          },
+          "dinner": {
+            "name": "Baked Salmon with Vegetables",
+            "calories": 450,
+            "protein": 40,
+            "carbs": 20,
+            "fat": 22,
+            "ingredients": [
+              "salmon",
+              "broccoli",
+              "sweet potato",
+              "olive oil"
+            ],
+            "instructions": "Bake salmon with vegetables",
+            "dietary": [
+              "none"
+            ]
+          },
+          "snack": {
+            "name": "Protein Smoothie",
+            "calories": 220,
+            "protein": 25,
+            "carbs": 20,
+            "fat": 5,
+            "ingredients": [
+              "protein powder",
+              "banana",
+              "milk",
+              "peanut butter"
+            ],
+            "instructions": "Blend all ingredients",
+            "dietary": [
+              "vegetarian"
+            ]
+          }
+        },
+        "day_5": {
+          "breakfast": {
+            "name": "Banana Oatmeal",
+            "calories": 320,
+            "protein": 12,
+            "carbs": 55,
+            "fat": 6,
+            "ingredients": [
+              "oats",
+              "banana",
+              "milk",
+              "cinnamon"
+            ],
+            "instructions": "Cook oats with milk, add banana",
+            "dietary": [
+              "vegetarian"
+            ]
+          },
+          "lunch": {
+            "name": "Grilled Chicken Salad",
+            "calories": 420,
+            "protein": 35,
+            "carbs": 15,
+            "fat": 18,
+            "ingredients": [
+              "chicken breast",
+              "mixed greens",
+              "olive oil",
+              "vegetables"
+            ],
+            "instructions": "Grill chicken, assemble salad",
+            "dietary": [
+              "none"
+            ]
+          },
+          "dinner": {
+            "name": "Baked Salmon with Vegetables",
+            "calories": 450,
+            "protein": 40,
+            "carbs": 20,
+            "fat": 22,
+            "ingredients": [
+              "salmon",
+              "broccoli",
+              "sweet potato",
+              "olive oil"
+            ],
+            "instructions": "Bake salmon with vegetables",
+            "dietary": [
+              "none"
+            ]
+          },
+          "snack": {
+            "name": "Protein Smoothie",
+            "calories": 220,
+            "protein": 25,
+            "carbs": 20,
+            "fat": 5,
+            "ingredients": [
+              "protein powder",
+              "banana",
+              "milk",
+              "peanut butter"
+            ],
+            "instructions": "Blend all ingredients",
+            "dietary": [
+              "vegetarian"
+            ]
+          }
+        },
+        "day_6": {
+          "breakfast": {
+            "name": "Banana Oatmeal",
+            "calories": 320,
+            "protein": 12,
+            "carbs": 55,
+            "fat": 6,
+            "ingredients": [
+              "oats",
+              "banana",
+              "milk",
+              "cinnamon"
+            ],
+            "instructions": "Cook oats with milk, add banana",
+            "dietary": [
+              "vegetarian"
+            ]
+          },
+          "lunch": {
+            "name": "Chickpea Salad",
+            "calories": 320,
+            "protein": 15,
+            "carbs": 40,
+            "fat": 12,
+            "ingredients": [
+              "chickpeas",
+              "vegetables",
+              "olive oil",
+              "lemon"
+            ],
+            "instructions": "Mix chickpeas with vegetables and dressing",
+            "dietary": [
+              "vegetarian",
+              "vegan"
+            ]
+          },
+          "dinner": {
+            "name": "Lentil Curry",
+            "calories": 320,
+            "protein": 18,
+            "carbs": 50,
+            "fat": 8,
+            "ingredients": [
+              "lentils",
+              "brown rice",
+              "vegetables",
+              "spices"
+            ],
+            "instructions": "Cook lentils with spices and vegetables",
+            "dietary": [
+              "vegetarian",
+              "vegan"
+            ]
+          },
+          "snack": {
+            "name": "Nuts and Fruit",
+            "calories": 180,
+            "protein": 6,
+            "carbs": 25,
+            "fat": 8,
+            "ingredients": [
+              "almonds",
+              "apple",
+              "dried fruit"
+            ],
+            "instructions": "Mix nuts with fruit",
+            "dietary": [
+              "vegetarian",
+              "vegan"
+            ]
+          }
+        },
+        "day_7": {
+          "breakfast": {
+            "name": "Tofu Scramble",
+            "calories": 300,
+            "protein": 20,
+            "carbs": 15,
+            "fat": 18,
+            "ingredients": [
+              "tofu",
+              "vegetables",
+              "turmeric",
+              "olive oil"
+            ],
+            "instructions": "Scramble tofu with vegetables and spices",
+            "dietary": [
+              "vegetarian",
+              "vegan"
+            ]
+          },
+          "lunch": {
+            "name": "Chickpea Salad",
+            "calories": 320,
+            "protein": 15,
+            "carbs": 40,
+            "fat": 12,
+            "ingredients": [
+              "chickpeas",
+              "vegetables",
+              "olive oil",
+              "lemon"
+            ],
+            "instructions": "Mix chickpeas with vegetables and dressing",
+            "dietary": [
+              "vegetarian",
+              "vegan"
+            ]
+          },
+          "dinner": {
+            "name": "Chickpea Curry",
+            "calories": 340,
+            "protein": 16,
+            "carbs": 45,
+            "fat": 12,
+            "ingredients": [
+              "chickpeas",
+              "quinoa",
+              "vegetables",
+              "coconut milk"
+            ],
+            "instructions": "Cook chickpeas in coconut curry sauce",
+            "dietary": [
+              "vegetarian",
+              "vegan"
+            ]
+          },
+          "snack": {
+            "name": "Protein Smoothie",
+            "calories": 220,
+            "protein": 25,
+            "carbs": 20,
+            "fat": 5,
+            "ingredients": [
+              "protein powder",
+              "banana",
+              "milk",
+              "peanut butter"
+            ],
+            "instructions": "Blend all ingredients",
+            "dietary": [
+              "vegetarian"
+            ]
+          }
+        }
+      }
+    },
+    {
+      "user_info": {
+        "age": 21,
+        "fitnessLevel": "beginner",
+        "healthGoals": "gain muscle",
+        "equipment": [
+          "home"
+        ]
+      },
+      "daily_calories": 2000,
+      "days": 7,
+      "dietary_restrictions": [],
+      "created_date": "2025-07-09T19:33:24.156646",
+      "meals": {
+        "day_1": {
+          "breakfast": {
+            "name": "Banana Oatmeal",
+            "calories": 320,
+            "protein": 12,
+            "carbs": 55,
+            "fat": 6,
+            "ingredients": [
+              "oats",
+              "banana",
+              "milk",
+              "cinnamon"
+            ],
+            "instructions": "Cook oats with milk, add banana",
+            "dietary": [
+              "vegetarian"
+            ]
+          },
+          "lunch": {
+            "name": "Chickpea Salad",
+            "calories": 320,
+            "protein": 15,
+            "carbs": 40,
+            "fat": 12,
+            "ingredients": [
+              "chickpeas",
+              "vegetables",
+              "olive oil",
+              "lemon"
+            ],
+            "instructions": "Mix chickpeas with vegetables and dressing",
+            "dietary": [
+              "vegetarian",
+              "vegan"
+            ]
+          },
+          "dinner": {
+            "name": "Tofu Stir Fry",
+            "calories": 350,
+            "protein": 20,
+            "carbs": 30,
+            "fat": 15,
+            "ingredients": [
+              "tofu",
+              "brown rice",
+              "vegetables",
+              "soy sauce"
+            ],
+            "instructions": "Stir fry tofu with vegetables and rice",
+            "dietary": [
+              "vegetarian",
+              "vegan"
+            ]
+          },
+          "snack": {
+            "name": "Nuts and Fruit",
+            "calories": 180,
+            "protein": 6,
+            "carbs": 25,
+            "fat": 8,
+            "ingredients": [
+              "almonds",
+              "apple",
+              "dried fruit"
+            ],
+            "instructions": "Mix nuts with fruit",
+            "dietary": [
+              "vegetarian",
+              "vegan"
+            ]
+          }
+        },
+        "day_2": {
+          "breakfast": {
+            "name": "Banana Oatmeal",
+            "calories": 320,
+            "protein": 12,
+            "carbs": 55,
+            "fat": 6,
+            "ingredients": [
+              "oats",
+              "banana",
+              "milk",
+              "cinnamon"
+            ],
+            "instructions": "Cook oats with milk, add banana",
+            "dietary": [
+              "vegetarian"
+            ]
+          },
+          "lunch": {
+            "name": "Tempeh Wrap",
+            "calories": 360,
+            "protein": 20,
+            "carbs": 35,
+            "fat": 15,
+            "ingredients": [
+              "tempeh",
+              "whole grain wrap",
+              "vegetables",
+              "hummus"
+            ],
+            "instructions": "Grill tempeh, wrap with vegetables and hummus",
+            "dietary": [
+              "vegetarian",
+              "vegan"
+            ]
+          },
+          "dinner": {
+            "name": "Lentil Curry",
+            "calories": 320,
+            "protein": 18,
+            "carbs": 50,
+            "fat": 8,
+            "ingredients": [
+              "lentils",
+              "brown rice",
+              "vegetables",
+              "spices"
+            ],
+            "instructions": "Cook lentils with spices and vegetables",
+            "dietary": [
+              "vegetarian",
+              "vegan"
+            ]
+          },
+          "snack": {
+            "name": "Hummus with Vegetables",
+            "calories": 150,
+            "protein": 8,
+            "carbs": 20,
+            "fat": 6,
+            "ingredients": [
+              "hummus",
+              "carrots",
+              "cucumber",
+              "bell peppers"
+            ],
+            "instructions": "Serve hummus with fresh vegetables",
+            "dietary": [
+              "vegetarian",
+              "vegan"
+            ]
+          }
+        },
+        "day_3": {
+          "breakfast": {
+            "name": "Greek Yogurt Bowl",
+            "calories": 280,
+            "protein": 20,
+            "carbs": 25,
+            "fat": 8,
+            "ingredients": [
+              "greek yogurt",
+              "berries",
+              "honey",
+              "nuts"
+            ],
+            "instructions": "Mix yogurt with toppings",
+            "dietary": [
+              "vegetarian"
+            ]
+          },
+          "lunch": {
+            "name": "Quinoa Protein Bowl",
+            "calories": 380,
+            "protein": 18,
+            "carbs": 45,
+            "fat": 12,
+            "ingredients": [
+              "quinoa",
+              "black beans",
+              "vegetables",
+              "avocado"
+            ],
+            "instructions": "Cook quinoa, mix with beans and vegetables",
+            "dietary": [
+              "vegetarian",
+              "vegan"
+            ]
+          },
+          "dinner": {
+            "name": "Chickpea Curry",
+            "calories": 340,
+            "protein": 16,
+            "carbs": 45,
+            "fat": 12,
+            "ingredients": [
+              "chickpeas",
+              "quinoa",
+              "vegetables",
+              "coconut milk"
+            ],
+            "instructions": "Cook chickpeas in coconut curry sauce",
+            "dietary": [
+              "vegetarian",
+              "vegan"
+            ]
+          },
+          "snack": {
+            "name": "Protein Smoothie",
+            "calories": 220,
+            "protein": 25,
+            "carbs": 20,
+            "fat": 5,
+            "ingredients": [
+              "protein powder",
+              "banana",
+              "milk",
+              "peanut butter"
+            ],
+            "instructions": "Blend all ingredients",
+            "dietary": [
+              "vegetarian"
+            ]
+          }
+        },
+        "day_4": {
+          "breakfast": {
+            "name": "Greek Yogurt Bowl",
+            "calories": 280,
+            "protein": 20,
+            "carbs": 25,
+            "fat": 8,
+            "ingredients": [
+              "greek yogurt",
+              "berries",
+              "honey",
+              "nuts"
+            ],
+            "instructions": "Mix yogurt with toppings",
+            "dietary": [
+              "vegetarian"
+            ]
+          },
+          "lunch": {
+            "name": "Grilled Chicken Salad",
+            "calories": 420,
+            "protein": 35,
+            "carbs": 15,
+            "fat": 18,
+            "ingredients": [
+              "chicken breast",
+              "mixed greens",
+              "olive oil",
+              "vegetables"
+            ],
+            "instructions": "Grill chicken, assemble salad",
+            "dietary": [
+              "none"
+            ]
+          },
+          "dinner": {
+            "name": "Baked Salmon with Vegetables",
+            "calories": 450,
+            "protein": 40,
+            "carbs": 20,
+            "fat": 22,
+            "ingredients": [
+              "salmon",
+              "broccoli",
+              "sweet potato",
+              "olive oil"
+            ],
+            "instructions": "Bake salmon with vegetables",
+            "dietary": [
+              "none"
+            ]
+          },
+          "snack": {
+            "name": "Nuts and Fruit",
+            "calories": 180,
+            "protein": 6,
+            "carbs": 25,
+            "fat": 8,
+            "ingredients": [
+              "almonds",
+              "apple",
+              "dried fruit"
+            ],
+            "instructions": "Mix nuts with fruit",
+            "dietary": [
+              "vegetarian",
+              "vegan"
+            ]
+          }
+        },
+        "day_5": {
+          "breakfast": {
+            "name": "Chia Pudding",
+            "calories": 250,
+            "protein": 8,
+            "carbs": 35,
+            "fat": 10,
+            "ingredients": [
+              "chia seeds",
+              "almond milk",
+              "berries",
+              "honey"
+            ],
+            "instructions": "Mix chia with milk, refrigerate overnight",
+            "dietary": [
+              "vegetarian",
+              "vegan"
+            ]
+          },
+          "lunch": {
+            "name": "Tuna Sandwich",
+            "calories": 340,
+            "protein": 22,
+            "carbs": 35,
+            "fat": 10,
+            "ingredients": [
+              "tuna",
+              "whole grain bread",
+              "mayo",
+              "vegetables"
+            ],
+            "instructions": "Mix tuna with mayo, serve on bread",
+            "dietary": [
+              "none"
+            ]
+          },
+          "dinner": {
+            "name": "Lentil Curry",
+            "calories": 320,
+            "protein": 18,
+            "carbs": 50,
+            "fat": 8,
+            "ingredients": [
+              "lentils",
+              "brown rice",
+              "vegetables",
+              "spices"
+            ],
+            "instructions": "Cook lentils with spices and vegetables",
+            "dietary": [
+              "vegetarian",
+              "vegan"
+            ]
+          },
+          "snack": {
+            "name": "Protein Smoothie",
+            "calories": 220,
+            "protein": 25,
+            "carbs": 20,
+            "fat": 5,
+            "ingredients": [
+              "protein powder",
+              "banana",
+              "milk",
+              "peanut butter"
+            ],
+            "instructions": "Blend all ingredients",
+            "dietary": [
+              "vegetarian"
+            ]
+          }
+        },
+        "day_6": {
+          "breakfast": {
+            "name": "Banana Oatmeal",
+            "calories": 320,
+            "protein": 12,
+            "carbs": 55,
+            "fat": 6,
+            "ingredients": [
+              "oats",
+              "banana",
+              "milk",
+              "cinnamon"
+            ],
+            "instructions": "Cook oats with milk, add banana",
+            "dietary": [
+              "vegetarian"
+            ]
+          },
+          "lunch": {
+            "name": "Tuna Sandwich",
+            "calories": 340,
+            "protein": 22,
+            "carbs": 35,
+            "fat": 10,
+            "ingredients": [
+              "tuna",
+              "whole grain bread",
+              "mayo",
+              "vegetables"
+            ],
+            "instructions": "Mix tuna with mayo, serve on bread",
+            "dietary": [
+              "none"
+            ]
+          },
+          "dinner": {
+            "name": "Chickpea Curry",
+            "calories": 340,
+            "protein": 16,
+            "carbs": 45,
+            "fat": 12,
+            "ingredients": [
+              "chickpeas",
+              "quinoa",
+              "vegetables",
+              "coconut milk"
+            ],
+            "instructions": "Cook chickpeas in coconut curry sauce",
+            "dietary": [
+              "vegetarian",
+              "vegan"
+            ]
+          },
+          "snack": {
+            "name": "Nuts and Fruit",
+            "calories": 180,
+            "protein": 6,
+            "carbs": 25,
+            "fat": 8,
+            "ingredients": [
+              "almonds",
+              "apple",
+              "dried fruit"
+            ],
+            "instructions": "Mix nuts with fruit",
+            "dietary": [
+              "vegetarian",
+              "vegan"
+            ]
+          }
+        },
+        "day_7": {
+          "breakfast": {
+            "name": "Banana Oatmeal",
+            "calories": 320,
+            "protein": 12,
+            "carbs": 55,
+            "fat": 6,
+            "ingredients": [
+              "oats",
+              "banana",
+              "milk",
+              "cinnamon"
+            ],
+            "instructions": "Cook oats with milk, add banana",
+            "dietary": [
+              "vegetarian"
+            ]
+          },
+          "lunch": {
+            "name": "Grilled Chicken Salad",
+            "calories": 420,
+            "protein": 35,
+            "carbs": 15,
+            "fat": 18,
+            "ingredients": [
+              "chicken breast",
+              "mixed greens",
+              "olive oil",
+              "vegetables"
+            ],
+            "instructions": "Grill chicken, assemble salad",
+            "dietary": [
+              "none"
+            ]
+          },
+          "dinner": {
+            "name": "Lean Beef Stir Fry",
+            "calories": 380,
+            "protein": 35,
+            "carbs": 25,
+            "fat": 15,
+            "ingredients": [
+              "lean beef",
+              "brown rice",
+              "vegetables",
+              "soy sauce"
+            ],
+            "instructions": "Stir fry beef with vegetables and rice",
+            "dietary": [
+              "none"
+            ]
+          },
+          "snack": {
+            "name": "Hummus with Vegetables",
+            "calories": 150,
+            "protein": 8,
+            "carbs": 20,
+            "fat": 6,
+            "ingredients": [
+              "hummus",
+              "carrots",
+              "cucumber",
+              "bell peppers"
+            ],
+            "instructions": "Serve hummus with fresh vegetables",
+            "dietary": [
+              "vegetarian",
+              "vegan"
+            ]
+          }
+        }
+      }
+    },
+    {
+      "user_info": {
+        "age": 21
+      },
+      "daily_calories": 2000,
+      "days": 7,
+      "dietary_restrictions": [],
+      "created_date": "2025-07-09T19:40:14.808172",
+      "meals": {
+        "day_1": {
+          "breakfast": {
+            "name": "Banana Oatmeal",
+            "calories": 320,
+            "protein": 12,
+            "carbs": 55,
+            "fat": 6,
+            "ingredients": [
+              "oats",
+              "banana",
+              "milk",
+              "cinnamon"
+            ],
+            "instructions": "Cook oats with milk, add banana",
+            "dietary": [
+              "vegetarian"
+            ]
+          },
+          "lunch": {
+            "name": "Tuna Sandwich",
+            "calories": 340,
+            "protein": 22,
+            "carbs": 35,
+            "fat": 10,
+            "ingredients": [
+              "tuna",
+              "whole grain bread",
+              "mayo",
+              "vegetables"
+            ],
+            "instructions": "Mix tuna with mayo, serve on bread",
+            "dietary": [
+              "none"
+            ]
+          },
+          "dinner": {
+            "name": "Tofu Stir Fry",
+            "calories": 350,
+            "protein": 20,
+            "carbs": 30,
+            "fat": 15,
+            "ingredients": [
+              "tofu",
+              "brown rice",
+              "vegetables",
+              "soy sauce"
+            ],
+            "instructions": "Stir fry tofu with vegetables and rice",
+            "dietary": [
+              "vegetarian",
+              "vegan"
+            ]
+          },
+          "snack": {
+            "name": "Protein Smoothie",
+            "calories": 220,
+            "protein": 25,
+            "carbs": 20,
+            "fat": 5,
+            "ingredients": [
+              "protein powder",
+              "banana",
+              "milk",
+              "peanut butter"
+            ],
+            "instructions": "Blend all ingredients",
+            "dietary": [
+              "vegetarian"
+            ]
+          }
+        },
+        "day_2": {
+          "breakfast": {
+            "name": "Greek Yogurt Bowl",
+            "calories": 280,
+            "protein": 20,
+            "carbs": 25,
+            "fat": 8,
+            "ingredients": [
+              "greek yogurt",
+              "berries",
+              "honey",
+              "nuts"
+            ],
+            "instructions": "Mix yogurt with toppings",
+            "dietary": [
+              "vegetarian"
+            ]
+          },
+          "lunch": {
+            "name": "Grilled Chicken Salad",
+            "calories": 420,
+            "protein": 35,
+            "carbs": 15,
+            "fat": 18,
+            "ingredients": [
+              "chicken breast",
+              "mixed greens",
+              "olive oil",
+              "vegetables"
+            ],
+            "instructions": "Grill chicken, assemble salad",
+            "dietary": [
+              "none"
+            ]
+          },
+          "dinner": {
+            "name": "Lean Beef Stir Fry",
+            "calories": 380,
+            "protein": 35,
+            "carbs": 25,
+            "fat": 15,
+            "ingredients": [
+              "lean beef",
+              "brown rice",
+              "vegetables",
+              "soy sauce"
+            ],
+            "instructions": "Stir fry beef with vegetables and rice",
+            "dietary": [
+              "none"
+            ]
+          },
+          "snack": {
+            "name": "Hummus with Vegetables",
+            "calories": 150,
+            "protein": 8,
+            "carbs": 20,
+            "fat": 6,
+            "ingredients": [
+              "hummus",
+              "carrots",
+              "cucumber",
+              "bell peppers"
+            ],
+            "instructions": "Serve hummus with fresh vegetables",
+            "dietary": [
+              "vegetarian",
+              "vegan"
+            ]
+          }
+        },
+        "day_3": {
+          "breakfast": {
+            "name": "Banana Oatmeal",
+            "calories": 320,
+            "protein": 12,
+            "carbs": 55,
+            "fat": 6,
+            "ingredients": [
+              "oats",
+              "banana",
+              "milk",
+              "cinnamon"
+            ],
+            "instructions": "Cook oats with milk, add banana",
+            "dietary": [
+              "vegetarian"
+            ]
+          },
+          "lunch": {
+            "name": "Chickpea Salad",
+            "calories": 320,
+            "protein": 15,
+            "carbs": 40,
+            "fat": 12,
+            "ingredients": [
+              "chickpeas",
+              "vegetables",
+              "olive oil",
+              "lemon"
+            ],
+            "instructions": "Mix chickpeas with vegetables and dressing",
+            "dietary": [
+              "vegetarian",
+              "vegan"
+            ]
+          },
+          "dinner": {
+            "name": "Tofu Stir Fry",
+            "calories": 350,
+            "protein": 20,
+            "carbs": 30,
+            "fat": 15,
+            "ingredients": [
+              "tofu",
+              "brown rice",
+              "vegetables",
+              "soy sauce"
+            ],
+            "instructions": "Stir fry tofu with vegetables and rice",
+            "dietary": [
+              "vegetarian",
+              "vegan"
+            ]
+          },
+          "snack": {
+            "name": "Hummus with Vegetables",
+            "calories": 150,
+            "protein": 8,
+            "carbs": 20,
+            "fat": 6,
+            "ingredients": [
+              "hummus",
+              "carrots",
+              "cucumber",
+              "bell peppers"
+            ],
+            "instructions": "Serve hummus with fresh vegetables",
+            "dietary": [
+              "vegetarian",
+              "vegan"
+            ]
+          }
+        },
+        "day_4": {
+          "breakfast": {
+            "name": "Chia Pudding",
+            "calories": 250,
+            "protein": 8,
+            "carbs": 35,
+            "fat": 10,
+            "ingredients": [
+              "chia seeds",
+              "almond milk",
+              "berries",
+              "honey"
+            ],
+            "instructions": "Mix chia with milk, refrigerate overnight",
+            "dietary": [
+              "vegetarian",
+              "vegan"
+            ]
+          },
+          "lunch": {
+            "name": "Chickpea Salad",
+            "calories": 320,
+            "protein": 15,
+            "carbs": 40,
+            "fat": 12,
+            "ingredients": [
+              "chickpeas",
+              "vegetables",
+              "olive oil",
+              "lemon"
+            ],
+            "instructions": "Mix chickpeas with vegetables and dressing",
+            "dietary": [
+              "vegetarian",
+              "vegan"
+            ]
+          },
+          "dinner": {
+            "name": "Lean Beef Stir Fry",
+            "calories": 380,
+            "protein": 35,
+            "carbs": 25,
+            "fat": 15,
+            "ingredients": [
+              "lean beef",
+              "brown rice",
+              "vegetables",
+              "soy sauce"
+            ],
+            "instructions": "Stir fry beef with vegetables and rice",
+            "dietary": [
+              "none"
+            ]
+          },
+          "snack": {
+            "name": "Hummus with Vegetables",
+            "calories": 150,
+            "protein": 8,
+            "carbs": 20,
+            "fat": 6,
+            "ingredients": [
+              "hummus",
+              "carrots",
+              "cucumber",
+              "bell peppers"
+            ],
+            "instructions": "Serve hummus with fresh vegetables",
+            "dietary": [
+              "vegetarian",
+              "vegan"
+            ]
+          }
+        },
+        "day_5": {
+          "breakfast": {
+            "name": "Banana Oatmeal",
+            "calories": 320,
+            "protein": 12,
+            "carbs": 55,
+            "fat": 6,
+            "ingredients": [
+              "oats",
+              "banana",
+              "milk",
+              "cinnamon"
+            ],
+            "instructions": "Cook oats with milk, add banana",
+            "dietary": [
+              "vegetarian"
+            ]
+          },
+          "lunch": {
+            "name": "Tempeh Wrap",
+            "calories": 360,
+            "protein": 20,
+            "carbs": 35,
+            "fat": 15,
+            "ingredients": [
+              "tempeh",
+              "whole grain wrap",
+              "vegetables",
+              "hummus"
+            ],
+            "instructions": "Grill tempeh, wrap with vegetables and hummus",
+            "dietary": [
+              "vegetarian",
+              "vegan"
+            ]
+          },
+          "dinner": {
+            "name": "Baked Salmon with Vegetables",
+            "calories": 450,
+            "protein": 40,
+            "carbs": 20,
+            "fat": 22,
+            "ingredients": [
+              "salmon",
+              "broccoli",
+              "sweet potato",
+              "olive oil"
+            ],
+            "instructions": "Bake salmon with vegetables",
+            "dietary": [
+              "none"
+            ]
+          },
+          "snack": {
+            "name": "Hummus with Vegetables",
+            "calories": 150,
+            "protein": 8,
+            "carbs": 20,
+            "fat": 6,
+            "ingredients": [
+              "hummus",
+              "carrots",
+              "cucumber",
+              "bell peppers"
+            ],
+            "instructions": "Serve hummus with fresh vegetables",
+            "dietary": [
+              "vegetarian",
+              "vegan"
+            ]
+          }
+        },
+        "day_6": {
+          "breakfast": {
+            "name": "Protein Pancakes",
+            "calories": 350,
+            "protein": 25,
+            "carbs": 30,
+            "fat": 12,
+            "ingredients": [
+              "oats",
+              "protein powder",
+              "eggs",
+              "banana"
+            ],
+            "instructions": "Blend ingredients, cook on griddle",
+            "dietary": [
+              "vegetarian"
+            ]
+          },
+          "lunch": {
+            "name": "Chickpea Salad",
+            "calories": 320,
+            "protein": 15,
+            "carbs": 40,
+            "fat": 12,
+            "ingredients": [
+              "chickpeas",
+              "vegetables",
+              "olive oil",
+              "lemon"
+            ],
+            "instructions": "Mix chickpeas with vegetables and dressing",
+            "dietary": [
+              "vegetarian",
+              "vegan"
+            ]
+          },
+          "dinner": {
+            "name": "Lentil Curry",
+            "calories": 320,
+            "protein": 18,
+            "carbs": 50,
+            "fat": 8,
+            "ingredients": [
+              "lentils",
+              "brown rice",
+              "vegetables",
+              "spices"
+            ],
+            "instructions": "Cook lentils with spices and vegetables",
+            "dietary": [
+              "vegetarian",
+              "vegan"
+            ]
+          },
+          "snack": {
+            "name": "Nuts and Fruit",
+            "calories": 180,
+            "protein": 6,
+            "carbs": 25,
+            "fat": 8,
+            "ingredients": [
+              "almonds",
+              "apple",
+              "dried fruit"
+            ],
+            "instructions": "Mix nuts with fruit",
+            "dietary": [
+              "vegetarian",
+              "vegan"
+            ]
+          }
+        },
+        "day_7": {
+          "breakfast": {
+            "name": "Greek Yogurt Bowl",
+            "calories": 280,
+            "protein": 20,
+            "carbs": 25,
+            "fat": 8,
+            "ingredients": [
+              "greek yogurt",
+              "berries",
+              "honey",
+              "nuts"
+            ],
+            "instructions": "Mix yogurt with toppings",
+            "dietary": [
+              "vegetarian"
+            ]
+          },
+          "lunch": {
+            "name": "Tempeh Wrap",
+            "calories": 360,
+            "protein": 20,
+            "carbs": 35,
+            "fat": 15,
+            "ingredients": [
+              "tempeh",
+              "whole grain wrap",
+              "vegetables",
+              "hummus"
+            ],
+            "instructions": "Grill tempeh, wrap with vegetables and hummus",
+            "dietary": [
+              "vegetarian",
+              "vegan"
+            ]
+          },
+          "dinner": {
+            "name": "Tofu Stir Fry",
+            "calories": 350,
+            "protein": 20,
+            "carbs": 30,
+            "fat": 15,
+            "ingredients": [
+              "tofu",
+              "brown rice",
+              "vegetables",
+              "soy sauce"
+            ],
+            "instructions": "Stir fry tofu with vegetables and rice",
+            "dietary": [
+              "vegetarian",
+              "vegan"
+            ]
+          },
+          "snack": {
+            "name": "Nuts and Fruit",
+            "calories": 180,
+            "protein": 6,
+            "carbs": 25,
+            "fat": 8,
+            "ingredients": [
+              "almonds",
+              "apple",
+              "dried fruit"
+            ],
+            "instructions": "Mix nuts with fruit",
+            "dietary": [
+              "vegetarian",
+              "vegan"
+            ]
+          }
+        }
+      }
+    }
+  ],
+  "created_date": "2025-07-05T14:25:35.747431"
+}

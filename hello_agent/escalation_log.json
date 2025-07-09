@@ -1,0 +1,18 @@
+{
+  "escalations": [
+    {
+      "timestamp": "2025-07-09T17:15:49.384023",
+      "user_info": {
+        "age": 76,
+        "fitnessLevel": "beginner",
+        "healthGoals": "tghd",
+        "equipment": [
+          "none"
+        ]
+      },
+      "reason": "i want to talk to human",
+      "status": "pending"
+    }
+  ],
+  "created_date": "2025-07-09T17:12:36.667263"
+}

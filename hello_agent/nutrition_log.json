@@ -1,0 +1,29 @@
+{
+  "consultations": [
+    {
+      "timestamp": "2025-07-05T13:47:10.655819",
+      "user_info": {
+        "age": 24,
+        "health_goals": "fitnrss",
+        "equipment": [
+          "dumbbells",
+          "resistance bands",
+          "none"
+        ]
+      },
+      "nutrition_question": "give me healthy meal to lose 1kg w8 or fat",
+      "dietary_restrictions": [],
+      "status": "consulted"
+    },
+    {
+      "timestamp": "2025-07-09T18:31:12.434705",
+      "user_info": {
+        "age": 21
+      },
+      "nutrition_question": "Gain 5 pounds in 4 weeks through a balanced diet and strength training",
+      "dietary_restrictions": [],
+      "status": "consulted"
+    }
+  ],
+  "created_date": "2025-07-05T13:42:54.341933"
+}

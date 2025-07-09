@@ -1,0 +1,14 @@
+{
+  "injuries": [
+    {
+      "timestamp": "2025-07-09T18:27:59.069009",
+      "user_info": {
+        "age": 21
+      },
+      "injury_description": "i am having pain",
+      "symptoms": [],
+      "status": "assessed"
+    }
+  ],
+  "created_date": "2025-07-09T17:47:26.546596"
+}

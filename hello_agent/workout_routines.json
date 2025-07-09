@@ -1,0 +1,69 @@
+{
+  "routines": [
+    {
+      "user_info": {
+        "age": 25,
+        "fitness_level": "beginner",
+        "health_goals": "general fitness",
+        "equipment": [
+          "none"
+        ]
+      },
+      "workout_type": "balanced",
+      "focus": "balanced",
+      "created_date": "2025-07-05T14:29:21.773986",
+      "exercises": {}
+    },
+    {
+      "user_info": {
+        "age": 21
+      },
+      "workout_type": "balanced",
+      "focus": "balanced",
+      "created_date": "2025-07-09T18:24:03.797290",
+      "exercises": {}
+    },
+    {
+      "user_info": {
+        "age": 21
+      },
+      "workout_type": "balanced",
+      "focus": "balanced",
+      "created_date": "2025-07-09T18:26:58.444050",
+      "exercises": {}
+    },
+    {
+      "user_info": {
+        "age": 21
+      },
+      "workout_type": "balanced",
+      "focus": "balanced",
+      "created_date": "2025-07-09T18:27:33.677557",
+      "exercises": {}
+    },
+    {
+      "user_info": {
+        "age": 21,
+        "fitnessLevel": "beginner",
+        "healthGoals": "gain muscle",
+        "equipment": [
+          "home"
+        ]
+      },
+      "workout_type": "balanced",
+      "focus": "balanced",
+      "created_date": "2025-07-09T19:32:59.002555",
+      "exercises": {}
+    },
+    {
+      "user_info": {
+        "age": 21
+      },
+      "workout_type": "balanced",
+      "focus": "balanced",
+      "created_date": "2025-07-09T19:41:06.213231",
+      "exercises": {}
+    }
+  ],
+  "created_date": "2025-07-05T14:29:15.165412"
+}
