@@ -248,6 +248,10 @@ async def ask_health_coach(request: ChatRequest):
         result = await Runner.run(health_coach_agent, context, run_config=config)
         return ChatResponse(response=result.final_output, success=True)
     except Exception as e:
+        print(f"[ERROR] Exception in /ask endpoint: {str(e)}")
+        print(f"[ERROR] Exception type: {type(e).__name__}")
+        import traceback
+        print(f"[ERROR] Traceback: {traceback.format_exc()}")
         return ChatResponse(
             response="Sorry, I encountered an error. Please try again.",
             success=False,
