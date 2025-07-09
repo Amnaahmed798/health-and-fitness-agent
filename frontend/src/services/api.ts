@@ -1,6 +1,6 @@
 import axios from 'axios';
 
-const API_BASE_URL = 'http://localhost:8000';
+const API_BASE_URL = 'https://health-and-fitness-agent-production.up.railway.app';
 
 // Create axios instance with default config
 const apiClient = axios.create({
@@ -51,24 +51,55 @@ export interface ChatResponse {
   error?: string;
 }
 
+export interface MealPlanResponse {
+  mealPlan?: string;
+  success: boolean;
+  error?: string;
+}
+
+export interface WorkoutResponse {
+  workout?: string;
+  success: boolean;
+  error?: string;
+}
+
+export interface ProgressResponse {
+  message?: string;
+  success: boolean;
+  error?: string;
+}
+
+export interface GoalResponse {
+  message?: string;
+  success: boolean;
+  error?: string;
+}
+
+export interface WorkoutLogData {
+  date: string;
+  workout_type: string;
+  notes?: string;
+}
+
 export const healthCoachAPI = {
   // Send a message to the health coach
   async sendMessage(prompt: string, userInfo?: UserInfo): Promise<ChatResponse> {
     try {
-      const response = await apiClient.post('/ask', {
+      const response = await apiClient.post<ChatResponse>('/ask', {
         prompt,
         userInfo
       });
       
       return {
-        response: response.data.response || response.data,
+        response: typeof response.data === 'string' ? response.data : response.data.response || '',
         success: true
       };
-    } catch (error: any) {
+    } catch (error: unknown) {
+      const axiosError = error as { response?: { data?: { error?: string } }; message?: string };
       return {
         response: 'Sorry, I encountered an error. Please try again.',
         success: false,
-        error: error.response?.data?.error || error.message
+        error: axiosError.response?.data?.error || axiosError.message
       };
     }
   },
@@ -76,7 +107,7 @@ export const healthCoachAPI = {
   // Get user profile
   async getUserProfile(): Promise<UserInfo> {
     try {
-      const response = await apiClient.get('/profile');
+      const response = await apiClient.get<UserInfo>('/profile');
       return response.data;
     } catch (error) {
       console.error('Error fetching user profile:', error);
@@ -96,9 +127,9 @@ export const healthCoachAPI = {
   },
 
   // Get meal plan
-  async getMealPlan(dietaryRestrictions?: string[]): Promise<any> {
+  async getMealPlan(dietaryRestrictions?: string[]): Promise<MealPlanResponse | null> {
     try {
-      const response = await apiClient.post('/meal-plan', {
+      const response = await apiClient.post<MealPlanResponse>('/meal-plan', {
         dietaryRestrictions
       });
       return response.data;
@@ -109,9 +140,9 @@ export const healthCoachAPI = {
   },
 
   // Get workout routine
-  async getWorkoutRoutine(userInfo: UserInfo): Promise<any> {
+  async getWorkoutRoutine(userInfo: UserInfo): Promise<WorkoutResponse | null> {
     try {
-      const response = await apiClient.post('/workout', {
+      const response = await apiClient.post<WorkoutResponse>('/workout', {
         userInfo
       });
       return response.data;
@@ -122,9 +153,16 @@ export const healthCoachAPI = {
   },
 
   // Track progress
-  async trackProgress(data: any): Promise<any> {
+  async trackProgress(data: {
+    date: string;
+    weight?: number;
+    bodyFat?: number;
+    chest?: number;
+    waist?: number;
+    notes?: string;
+  }): Promise<ProgressResponse | null> {
     try {
-      const response = await apiClient.post('/progress', data);
+      const response = await apiClient.post<ProgressResponse>('/progress', data);
       return response.data;
     } catch (error) {
       console.error('Error tracking progress:', error);
@@ -133,12 +171,28 @@ export const healthCoachAPI = {
   },
 
   // Set goal
-  async setGoal(goalData: any): Promise<any> {
+  async setGoal(goalData: {
+    goalType: string;
+    target: string;
+    timeframe: string;
+    userInfo?: UserInfo;
+  }): Promise<GoalResponse | null> {
     try {
-      const response = await apiClient.post('/goal', goalData);
+      const response = await apiClient.post<GoalResponse>('/goal', goalData);
       return response.data;
     } catch (error) {
       console.error('Error setting goal:', error);
+      return null;
+    }
+  },
+
+  // Log workout
+  async logWorkout(data: WorkoutLogData): Promise<{ message: string; success: boolean; error?: string } | null> {
+    try {
+      const response = await apiClient.post<{ message: string; success: boolean; error?: string }>('/log-workout', data);
+      return response.data;
+    } catch (error) {
+      console.error('Error logging workout:', error);
       return null;
     }
   }
